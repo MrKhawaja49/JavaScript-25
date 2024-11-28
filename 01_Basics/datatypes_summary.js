@@ -33,4 +33,21 @@ const myFunction = function()
     
 }
 
-console.log(typeof);
+// console.log(typeof);
+
+// *****************************************************************************
+
+// Stack (Primitive), Heap(Non-Primmitve)
+
+let myYoutubeName = "MrBeast"
+
+let anotherName = myYoutubeName
+anotherName = "chaiaurcode"
+
+
+console.log(myYoutubeName);
+console.log(anotherName);
+let userOne = {
+    email: "user@gmail.com",
+    password: "user1"}
+
