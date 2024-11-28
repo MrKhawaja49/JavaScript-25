@@ -11,8 +11,21 @@ let valueInNumber = Number(score)
 
 let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean(isLoggedIn);
-console.log(typeof booleanIsLoggedIn);
+// console.log(typeof booleanIsLoggedIn);
 
 // 1 => true; 0 => false
 // "" => false
 // "hassan" => true
+
+// ********************** OPERATIONS ************************//
+
+let value = 3
+let negValue = -value
+console.log(negValue);
+
+let str1 = "Hello"
+let str2 = " Hassan"
+
+let str3 = str1 + str2
+// console.log(str3);
+console.log(true);
